@@ -7,15 +7,15 @@ You can see jobs location on google map by click on "Location" link in table.
 
 
 Getting Started
-1. Clone the repository
+1. Clone the repository: 
    git Clone git@github.com:loai98/rss-parser.git
 
-2. Install dependencies
+2. Install dependencies: 
    composer install
 
    I'm using laravel 9 and php 8. 
 
-3. Start the local development server
+3. Start the local development server: 
    php artisan serve
 
 
